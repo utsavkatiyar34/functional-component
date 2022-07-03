@@ -1,0 +1,16 @@
+.complete{
+        text-decoration: line-through;
+        text-decoration-color: navy;
+      
+    }
+    .item{
+          display:flex;
+          justify-content: center;
+          align-items: center;
+          color:blue;
+       
+    }  
+    p{
+        font-family: cursive;
+        color:navy
+    }
